@@ -1,5 +1,4 @@
 # Estructura y Dinámica de Redes Biológicas 
 
-## Curso Fundamental 
+## Curso Fundamental --- Semestre 2019 - 2 
 
-## Semestre 2019 - 2 
