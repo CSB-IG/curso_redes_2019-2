@@ -2,7 +2,7 @@ Guias de instalacion: paqueteria de analisis de redes
 ================
 Guillermo de Anda - Jáuregui
 
-Esta es una guía para instalar programas y paquetes útiles para el análisis de redes.
+Esta es una guía para instalar programas y paquetes útiles para el análisis de redes. 
 
 [Cytoscape](#cytoscape)
 
