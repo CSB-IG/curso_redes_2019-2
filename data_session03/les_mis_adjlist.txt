@@ -1,0 +1,80 @@
+#
+# GMT Mon Feb 11 21:35:17 2019
+# 
+Myriel Napoleon MlleBaptistine MmeMagloire CountessDeLo Geborand Champtercier Cravatte Count OldMan Valjean
+Napoleon
+MlleBaptistine MmeMagloire Valjean
+MmeMagloire Valjean
+CountessDeLo
+Geborand
+Champtercier
+Cravatte
+Count
+OldMan
+Labarre Valjean
+Valjean Marguerite MmeDeR Isabeau Gervais Fantine MmeThenardier Thenardier Cosette Javert Fauchelevent Bamatabois Simplice Scaufflaire Woman1 Judge Champmathieu Brevet Chenildieu Cochepaille Woman2 MotherInnocent Gavroche Gillenormand MlleGillenormand Marius Enjolras Bossuet Gueulemer Babet Claquesous Montparnasse Toussaint
+Marguerite Fantine
+MmeDeR
+Isabeau
+Gervais
+Tholomyes Listolier Fameuil Blacheville Favourite Dahlia Zephine Fantine Cosette Marius
+Listolier Fameuil Blacheville Favourite Dahlia Zephine Fantine
+Fameuil Blacheville Favourite Dahlia Zephine Fantine
+Blacheville Favourite Dahlia Zephine Fantine
+Favourite Dahlia Zephine Fantine
+Dahlia Zephine Fantine
+Zephine Fantine
+Fantine MmeThenardier Thenardier Javert Bamatabois Perpetue Simplice
+MmeThenardier Thenardier Cosette Javert Eponine Anzelma Magnon Gueulemer Babet Claquesous
+Thenardier Cosette Javert Pontmercy Boulatruelle Eponine Anzelma Gavroche Marius Gueulemer Babet Claquesous Montparnasse Brujon
+Cosette Javert Woman2 Gillenormand MlleGillenormand LtGillenormand Marius Toussaint
+Javert Fauchelevent Bamatabois Simplice Woman1 Woman2 Gavroche Enjolras Gueulemer Babet Claquesous Montparnasse Toussaint
+Fauchelevent MotherInnocent Gribier
+Bamatabois Judge Champmathieu Brevet Chenildieu Cochepaille
+Perpetue Simplice
+Simplice
+Scaufflaire
+Woman1
+Judge Champmathieu Brevet Chenildieu Cochepaille
+Champmathieu Brevet Chenildieu Cochepaille
+Brevet Chenildieu Cochepaille
+Chenildieu Cochepaille
+Cochepaille
+Pontmercy MmePontmercy Marius
+Boulatruelle
+Eponine Anzelma Marius Mabeuf Courfeyrac Gueulemer Babet Claquesous Montparnasse Brujon
+Anzelma
+Woman2
+MotherInnocent
+Gribier
+Jondrette MmeBurgon
+MmeBurgon Gavroche
+Gavroche Marius Mabeuf Enjolras Combeferre Prouvaire Feuilly Courfeyrac Bahorel Bossuet Joly Grantaire Gueulemer Babet Montparnasse Child1 Child2 Brujon MmeHucheloup
+Gillenormand Magnon MlleGillenormand LtGillenormand Marius BaronessT
+Magnon
+MlleGillenormand MmePontmercy MlleVaubois LtGillenormand Marius
+MmePontmercy
+MlleVaubois
+LtGillenormand Marius
+Marius BaronessT Mabeuf Enjolras Combeferre Feuilly Courfeyrac Bahorel Bossuet Joly
+BaronessT
+Mabeuf Enjolras Combeferre Feuilly Courfeyrac Bahorel Bossuet Joly MotherPlutarch
+Enjolras Combeferre Prouvaire Feuilly Courfeyrac Bahorel Bossuet Joly Grantaire Claquesous MmeHucheloup
+Combeferre Prouvaire Feuilly Courfeyrac Bahorel Bossuet Joly Grantaire
+Prouvaire Feuilly Courfeyrac Bahorel Bossuet Joly Grantaire
+Feuilly Courfeyrac Bahorel Bossuet Joly Grantaire
+Courfeyrac Bahorel Bossuet Joly Grantaire MmeHucheloup
+Bahorel Bossuet Joly Grantaire MmeHucheloup
+Bossuet Joly Grantaire MmeHucheloup
+Joly Grantaire MmeHucheloup
+Grantaire MmeHucheloup
+MotherPlutarch
+Gueulemer Babet Claquesous Montparnasse Brujon
+Babet Claquesous Montparnasse Brujon
+Claquesous Montparnasse Brujon
+Montparnasse Brujon
+Toussaint
+Child1 Child2
+Child2
+Brujon
+MmeHucheloup

@@ -1,0 +1,671 @@
+&id256 !!python/object:networkx.classes.graph.Graph
+_adj:
+  Anzelma:
+    Eponine: &id027 {value: 2}
+    MmeThenardier: &id142 {value: 1}
+    Thenardier: &id184 {value: 2}
+  Babet:
+    Brujon: &id003 {value: 3}
+    Claquesous: &id010 {value: 4}
+    Eponine: &id028 {value: 1}
+    Gavroche: &id047 {value: 1}
+    Gueulemer: &id067 {value: 6}
+    Javert: &id072 {value: 2}
+    MmeThenardier: &id143 {value: 1}
+    Montparnasse: &id151 {value: 2}
+    Thenardier: &id185 {value: 6}
+    Valjean: &id209 {value: 1}
+  Bahorel:
+    Bossuet: &id001 {value: 4}
+    Combeferre: &id016 {value: 5}
+    Courfeyrac: &id018 {value: 6}
+    Enjolras: &id022 {value: 4}
+    Feuilly: &id042 {value: 3}
+    Gavroche: &id048 {value: 5}
+    Grantaire: &id059 {value: 1}
+    Joly: &id081 {value: 5}
+    Mabeuf: &id101 {value: 2}
+    Marius: &id112 {value: 1}
+    MmeHucheloup: &id133 {value: 1}
+    Prouvaire: &id172 {value: 2}
+  Bamatabois:
+    Brevet: &id002 {value: 1}
+    Champmathieu: &id004 {value: 2}
+    Chenildieu: &id006 {value: 1}
+    Cochepaille: &id012 {value: 1}
+    Fantine: &id034 {value: 1}
+    Javert: &id073 {value: 1}
+    Judge: &id089 {value: 2}
+    Valjean: &id210 {value: 2}
+  BaronessT:
+    Gillenormand: &id057 {value: 1}
+    Marius: &id113 {value: 1}
+  Blacheville:
+    Dahlia: &id021 {value: 3}
+    Fameuil: &id032 {value: 4}
+    Fantine: &id035 {value: 3}
+    Favourite: &id038 {value: 4}
+    Listolier: &id094 {value: 4}
+    Tholomyes: &id199 {value: 4}
+    Zephine: &id248 {value: 3}
+  Bossuet:
+    Bahorel: *id001
+    Combeferre: &id017 {value: 9}
+    Courfeyrac: &id019 {value: 12}
+    Enjolras: &id023 {value: 10}
+    Feuilly: &id043 {value: 6}
+    Gavroche: &id049 {value: 5}
+    Grantaire: &id060 {value: 3}
+    Joly: &id082 {value: 7}
+    Mabeuf: &id102 {value: 1}
+    Marius: &id114 {value: 5}
+    MmeHucheloup: &id134 {value: 1}
+    Prouvaire: &id173 {value: 2}
+    Valjean: &id211 {value: 1}
+  Boulatruelle:
+    Thenardier: &id186 {value: 1}
+  Brevet:
+    Bamatabois: *id002
+    Champmathieu: &id005 {value: 2}
+    Chenildieu: &id007 {value: 2}
+    Cochepaille: &id013 {value: 2}
+    Judge: &id090 {value: 2}
+    Valjean: &id212 {value: 2}
+  Brujon:
+    Babet: *id003
+    Claquesous: &id011 {value: 1}
+    Eponine: &id029 {value: 1}
+    Gavroche: &id050 {value: 1}
+    Gueulemer: &id068 {value: 3}
+    Montparnasse: &id152 {value: 1}
+    Thenardier: &id187 {value: 3}
+  Champmathieu:
+    Bamatabois: *id004
+    Brevet: *id005
+    Chenildieu: &id008 {value: 2}
+    Cochepaille: &id014 {value: 2}
+    Judge: &id091 {value: 3}
+    Valjean: &id213 {value: 3}
+  Champtercier:
+    Myriel: &id160 {value: 1}
+  Chenildieu:
+    Bamatabois: *id006
+    Brevet: *id007
+    Champmathieu: *id008
+    Cochepaille: &id015 {value: 2}
+    Judge: &id092 {value: 2}
+    Valjean: &id214 {value: 2}
+  Child1:
+    Child2: &id009 {value: 3}
+    Gavroche: &id051 {value: 2}
+  Child2:
+    Child1: *id009
+    Gavroche: &id052 {value: 2}
+  Claquesous:
+    Babet: *id010
+    Brujon: *id011
+    Enjolras: &id024 {value: 1}
+    Eponine: &id030 {value: 1}
+    Gueulemer: &id069 {value: 4}
+    Javert: &id074 {value: 1}
+    MmeThenardier: &id144 {value: 1}
+    Montparnasse: &id153 {value: 2}
+    Thenardier: &id188 {value: 4}
+    Valjean: &id215 {value: 1}
+  Cochepaille:
+    Bamatabois: *id012
+    Brevet: *id013
+    Champmathieu: *id014
+    Chenildieu: *id015
+    Judge: &id093 {value: 2}
+    Valjean: &id216 {value: 2}
+  Combeferre:
+    Bahorel: *id016
+    Bossuet: *id017
+    Courfeyrac: &id020 {value: 13}
+    Enjolras: &id025 {value: 15}
+    Feuilly: &id044 {value: 5}
+    Gavroche: &id053 {value: 6}
+    Grantaire: &id061 {value: 1}
+    Joly: &id083 {value: 5}
+    Mabeuf: &id103 {value: 2}
+    Marius: &id115 {value: 5}
+    Prouvaire: &id174 {value: 2}
+  Cosette:
+    Gillenormand: &id058 {value: 3}
+    Javert: &id075 {value: 1}
+    LtGillenormand: &id099 {value: 1}
+    Marius: &id116 {value: 21}
+    MlleGillenormand: &id126 {value: 2}
+    MmeThenardier: &id145 {value: 4}
+    Thenardier: &id189 {value: 1}
+    Tholomyes: &id200 {value: 1}
+    Toussaint: &id207 {value: 2}
+    Valjean: &id217 {value: 31}
+    Woman2: &id245 {value: 1}
+  Count:
+    Myriel: &id161 {value: 2}
+  CountessDeLo:
+    Myriel: &id162 {value: 1}
+  Courfeyrac:
+    Bahorel: *id018
+    Bossuet: *id019
+    Combeferre: *id020
+    Enjolras: &id026 {value: 17}
+    Eponine: &id031 {value: 1}
+    Feuilly: &id045 {value: 6}
+    Gavroche: &id054 {value: 7}
+    Grantaire: &id062 {value: 2}
+    Joly: &id084 {value: 5}
+    Mabeuf: &id104 {value: 2}
+    Marius: &id117 {value: 9}
+    MmeHucheloup: &id135 {value: 1}
+    Prouvaire: &id175 {value: 3}
+  Cravatte:
+    Myriel: &id163 {value: 1}
+  Dahlia:
+    Blacheville: *id021
+    Fameuil: &id033 {value: 3}
+    Fantine: &id036 {value: 4}
+    Favourite: &id039 {value: 5}
+    Listolier: &id095 {value: 3}
+    Tholomyes: &id201 {value: 3}
+    Zephine: &id249 {value: 4}
+  Enjolras:
+    Bahorel: *id022
+    Bossuet: *id023
+    Claquesous: *id024
+    Combeferre: *id025
+    Courfeyrac: *id026
+    Feuilly: &id046 {value: 6}
+    Gavroche: &id055 {value: 7}
+    Grantaire: &id063 {value: 3}
+    Javert: &id076 {value: 6}
+    Joly: &id085 {value: 5}
+    Mabeuf: &id105 {value: 1}
+    Marius: &id118 {value: 7}
+    MmeHucheloup: &id136 {value: 1}
+    Prouvaire: &id176 {value: 4}
+    Valjean: &id218 {value: 4}
+  Eponine:
+    Anzelma: *id027
+    Babet: *id028
+    Brujon: *id029
+    Claquesous: *id030
+    Courfeyrac: *id031
+    Gueulemer: &id070 {value: 1}
+    Mabeuf: &id106 {value: 1}
+    Marius: &id119 {value: 5}
+    MmeThenardier: &id146 {value: 2}
+    Montparnasse: &id154 {value: 1}
+    Thenardier: &id190 {value: 3}
+  Fameuil:
+    Blacheville: *id032
+    Dahlia: *id033
+    Fantine: &id037 {value: 3}
+    Favourite: &id040 {value: 3}
+    Listolier: &id096 {value: 4}
+    Tholomyes: &id202 {value: 4}
+    Zephine: &id250 {value: 3}
+  Fantine:
+    Bamatabois: *id034
+    Blacheville: *id035
+    Dahlia: *id036
+    Fameuil: *id037
+    Favourite: &id041 {value: 4}
+    Javert: &id077 {value: 5}
+    Listolier: &id097 {value: 3}
+    Marguerite: &id111 {value: 2}
+    MmeThenardier: &id147 {value: 2}
+    Perpetue: &id169 {value: 1}
+    Simplice: &id181 {value: 2}
+    Thenardier: &id191 {value: 1}
+    Tholomyes: &id203 {value: 3}
+    Valjean: &id219 {value: 9}
+    Zephine: &id251 {value: 4}
+  Fauchelevent:
+    Gribier: &id066 {value: 2}
+    Javert: &id078 {value: 1}
+    MotherInnocent: &id158 {value: 3}
+    Valjean: &id220 {value: 8}
+  Favourite:
+    Blacheville: *id038
+    Dahlia: *id039
+    Fameuil: *id040
+    Fantine: *id041
+    Listolier: &id098 {value: 3}
+    Tholomyes: &id204 {value: 3}
+    Zephine: &id252 {value: 4}
+  Feuilly:
+    Bahorel: *id042
+    Bossuet: *id043
+    Combeferre: *id044
+    Courfeyrac: *id045
+    Enjolras: *id046
+    Gavroche: &id056 {value: 2}
+    Grantaire: &id064 {value: 1}
+    Joly: &id086 {value: 5}
+    Mabeuf: &id107 {value: 1}
+    Marius: &id120 {value: 1}
+    Prouvaire: &id177 {value: 2}
+  Gavroche:
+    Babet: *id047
+    Bahorel: *id048
+    Bossuet: *id049
+    Brujon: *id050
+    Child1: *id051
+    Child2: *id052
+    Combeferre: *id053
+    Courfeyrac: *id054
+    Enjolras: *id055
+    Feuilly: *id056
+    Grantaire: &id065 {value: 1}
+    Gueulemer: &id071 {value: 1}
+    Javert: &id079 {value: 1}
+    Joly: &id087 {value: 3}
+    Mabeuf: &id108 {value: 1}
+    Marius: &id121 {value: 4}
+    MmeBurgon: &id131 {value: 2}
+    MmeHucheloup: &id137 {value: 1}
+    Montparnasse: &id155 {value: 1}
+    Prouvaire: &id178 {value: 1}
+    Thenardier: &id192 {value: 1}
+    Valjean: &id221 {value: 1}
+  Geborand:
+    Myriel: &id164 {value: 1}
+  Gervais:
+    Valjean: &id222 {value: 1}
+  Gillenormand:
+    BaronessT: *id057
+    Cosette: *id058
+    LtGillenormand: &id100 {value: 1}
+    Magnon: &id110 {value: 1}
+    Marius: &id122 {value: 12}
+    MlleGillenormand: &id127 {value: 9}
+    Valjean: &id223 {value: 2}
+  Grantaire:
+    Bahorel: *id059
+    Bossuet: *id060
+    Combeferre: *id061
+    Courfeyrac: *id062
+    Enjolras: *id063
+    Feuilly: *id064
+    Gavroche: *id065
+    Joly: &id088 {value: 2}
+    MmeHucheloup: &id138 {value: 1}
+    Prouvaire: &id179 {value: 1}
+  Gribier:
+    Fauchelevent: *id066
+  Gueulemer:
+    Babet: *id067
+    Brujon: *id068
+    Claquesous: *id069
+    Eponine: *id070
+    Gavroche: *id071
+    Javert: &id080 {value: 1}
+    MmeThenardier: &id148 {value: 1}
+    Montparnasse: &id156 {value: 2}
+    Thenardier: &id193 {value: 5}
+    Valjean: &id224 {value: 1}
+  Isabeau:
+    Valjean: &id225 {value: 1}
+  Javert:
+    Babet: *id072
+    Bamatabois: *id073
+    Claquesous: *id074
+    Cosette: *id075
+    Enjolras: *id076
+    Fantine: *id077
+    Fauchelevent: *id078
+    Gavroche: *id079
+    Gueulemer: *id080
+    MmeThenardier: &id149 {value: 1}
+    Montparnasse: &id157 {value: 1}
+    Simplice: &id182 {value: 1}
+    Thenardier: &id194 {value: 5}
+    Toussaint: &id208 {value: 1}
+    Valjean: &id226 {value: 17}
+    Woman1: &id243 {value: 1}
+    Woman2: &id246 {value: 1}
+  Joly:
+    Bahorel: *id081
+    Bossuet: *id082
+    Combeferre: *id083
+    Courfeyrac: *id084
+    Enjolras: *id085
+    Feuilly: *id086
+    Gavroche: *id087
+    Grantaire: *id088
+    Mabeuf: &id109 {value: 1}
+    Marius: &id123 {value: 2}
+    MmeHucheloup: &id139 {value: 1}
+    Prouvaire: &id180 {value: 2}
+  Jondrette:
+    MmeBurgon: &id132 {value: 1}
+  Judge:
+    Bamatabois: *id089
+    Brevet: *id090
+    Champmathieu: *id091
+    Chenildieu: *id092
+    Cochepaille: *id093
+    Valjean: &id227 {value: 3}
+  Labarre:
+    Valjean: &id228 {value: 1}
+  Listolier:
+    Blacheville: *id094
+    Dahlia: *id095
+    Fameuil: *id096
+    Fantine: *id097
+    Favourite: *id098
+    Tholomyes: &id205 {value: 4}
+    Zephine: &id253 {value: 3}
+  LtGillenormand:
+    Cosette: *id099
+    Gillenormand: *id100
+    Marius: &id124 {value: 1}
+    MlleGillenormand: &id128 {value: 2}
+  Mabeuf:
+    Bahorel: *id101
+    Bossuet: *id102
+    Combeferre: *id103
+    Courfeyrac: *id104
+    Enjolras: *id105
+    Eponine: *id106
+    Feuilly: *id107
+    Gavroche: *id108
+    Joly: *id109
+    Marius: &id125 {value: 1}
+    MotherPlutarch: &id159 {value: 3}
+  Magnon:
+    Gillenormand: *id110
+    MmeThenardier: &id150 {value: 1}
+  Marguerite:
+    Fantine: *id111
+    Valjean: &id229 {value: 1}
+  Marius:
+    Bahorel: *id112
+    BaronessT: *id113
+    Bossuet: *id114
+    Combeferre: *id115
+    Cosette: *id116
+    Courfeyrac: *id117
+    Enjolras: *id118
+    Eponine: *id119
+    Feuilly: *id120
+    Gavroche: *id121
+    Gillenormand: *id122
+    Joly: *id123
+    LtGillenormand: *id124
+    Mabeuf: *id125
+    MlleGillenormand: &id129 {value: 6}
+    Pontmercy: &id170 {value: 1}
+    Thenardier: &id195 {value: 2}
+    Tholomyes: &id206 {value: 1}
+    Valjean: &id230 {value: 19}
+  MlleBaptistine:
+    MmeMagloire: &id140 {value: 6}
+    Myriel: &id165 {value: 8}
+    Valjean: &id231 {value: 3}
+  MlleGillenormand:
+    Cosette: *id126
+    Gillenormand: *id127
+    LtGillenormand: *id128
+    Marius: *id129
+    MlleVaubois: &id130 {value: 1}
+    MmePontmercy: &id141 {value: 1}
+    Valjean: &id232 {value: 2}
+  MlleVaubois:
+    MlleGillenormand: *id130
+  MmeBurgon:
+    Gavroche: *id131
+    Jondrette: *id132
+  MmeDeR:
+    Valjean: &id233 {value: 1}
+  MmeHucheloup:
+    Bahorel: *id133
+    Bossuet: *id134
+    Courfeyrac: *id135
+    Enjolras: *id136
+    Gavroche: *id137
+    Grantaire: *id138
+    Joly: *id139
+  MmeMagloire:
+    MlleBaptistine: *id140
+    Myriel: &id166 {value: 10}
+    Valjean: &id234 {value: 3}
+  MmePontmercy:
+    MlleGillenormand: *id141
+    Pontmercy: &id171 {value: 1}
+  MmeThenardier:
+    Anzelma: *id142
+    Babet: *id143
+    Claquesous: *id144
+    Cosette: *id145
+    Eponine: *id146
+    Fantine: *id147
+    Gueulemer: *id148
+    Javert: *id149
+    Magnon: *id150
+    Thenardier: &id196 {value: 13}
+    Valjean: &id235 {value: 7}
+  Montparnasse:
+    Babet: *id151
+    Brujon: *id152
+    Claquesous: *id153
+    Eponine: *id154
+    Gavroche: *id155
+    Gueulemer: *id156
+    Javert: *id157
+    Thenardier: &id197 {value: 1}
+    Valjean: &id236 {value: 1}
+  MotherInnocent:
+    Fauchelevent: *id158
+    Valjean: &id237 {value: 1}
+  MotherPlutarch:
+    Mabeuf: *id159
+  Myriel:
+    Champtercier: *id160
+    Count: *id161
+    CountessDeLo: *id162
+    Cravatte: *id163
+    Geborand: *id164
+    MlleBaptistine: *id165
+    MmeMagloire: *id166
+    Napoleon: &id167 {value: 1}
+    OldMan: &id168 {value: 1}
+    Valjean: &id238 {value: 5}
+  Napoleon:
+    Myriel: *id167
+  OldMan:
+    Myriel: *id168
+  Perpetue:
+    Fantine: *id169
+    Simplice: &id183 {value: 2}
+  Pontmercy:
+    Marius: *id170
+    MmePontmercy: *id171
+    Thenardier: &id198 {value: 1}
+  Prouvaire:
+    Bahorel: *id172
+    Bossuet: *id173
+    Combeferre: *id174
+    Courfeyrac: *id175
+    Enjolras: *id176
+    Feuilly: *id177
+    Gavroche: *id178
+    Grantaire: *id179
+    Joly: *id180
+  Scaufflaire:
+    Valjean: &id239 {value: 1}
+  Simplice:
+    Fantine: *id181
+    Javert: *id182
+    Perpetue: *id183
+    Valjean: &id240 {value: 3}
+  Thenardier:
+    Anzelma: *id184
+    Babet: *id185
+    Boulatruelle: *id186
+    Brujon: *id187
+    Claquesous: *id188
+    Cosette: *id189
+    Eponine: *id190
+    Fantine: *id191
+    Gavroche: *id192
+    Gueulemer: *id193
+    Javert: *id194
+    Marius: *id195
+    MmeThenardier: *id196
+    Montparnasse: *id197
+    Pontmercy: *id198
+    Valjean: &id241 {value: 12}
+  Tholomyes:
+    Blacheville: *id199
+    Cosette: *id200
+    Dahlia: *id201
+    Fameuil: *id202
+    Fantine: *id203
+    Favourite: *id204
+    Listolier: *id205
+    Marius: *id206
+    Zephine: &id254 {value: 3}
+  Toussaint:
+    Cosette: *id207
+    Javert: *id208
+    Valjean: &id242 {value: 1}
+  Valjean:
+    Babet: *id209
+    Bamatabois: *id210
+    Bossuet: *id211
+    Brevet: *id212
+    Champmathieu: *id213
+    Chenildieu: *id214
+    Claquesous: *id215
+    Cochepaille: *id216
+    Cosette: *id217
+    Enjolras: *id218
+    Fantine: *id219
+    Fauchelevent: *id220
+    Gavroche: *id221
+    Gervais: *id222
+    Gillenormand: *id223
+    Gueulemer: *id224
+    Isabeau: *id225
+    Javert: *id226
+    Judge: *id227
+    Labarre: *id228
+    Marguerite: *id229
+    Marius: *id230
+    MlleBaptistine: *id231
+    MlleGillenormand: *id232
+    MmeDeR: *id233
+    MmeMagloire: *id234
+    MmeThenardier: *id235
+    Montparnasse: *id236
+    MotherInnocent: *id237
+    Myriel: *id238
+    Scaufflaire: *id239
+    Simplice: *id240
+    Thenardier: *id241
+    Toussaint: *id242
+    Woman1: &id244 {value: 2}
+    Woman2: &id247 {value: 3}
+  Woman1:
+    Javert: *id243
+    Valjean: *id244
+  Woman2:
+    Cosette: *id245
+    Javert: *id246
+    Valjean: *id247
+  Zephine:
+    Blacheville: *id248
+    Dahlia: *id249
+    Fameuil: *id250
+    Fantine: *id251
+    Favourite: *id252
+    Listolier: *id253
+    Tholomyes: *id254
+_node:
+  Anzelma: {}
+  Babet: {}
+  Bahorel: {}
+  Bamatabois: {}
+  BaronessT: {}
+  Blacheville: {}
+  Bossuet: {}
+  Boulatruelle: {}
+  Brevet: {}
+  Brujon: {}
+  Champmathieu: {}
+  Champtercier: {}
+  Chenildieu: {}
+  Child1: {}
+  Child2: {}
+  Claquesous: {}
+  Cochepaille: {}
+  Combeferre: {}
+  Cosette: {}
+  Count: {}
+  CountessDeLo: {}
+  Courfeyrac: {}
+  Cravatte: {}
+  Dahlia: {}
+  Enjolras: {}
+  Eponine: {}
+  Fameuil: {}
+  Fantine: {}
+  Fauchelevent: {}
+  Favourite: {}
+  Feuilly: {}
+  Gavroche: {}
+  Geborand: {}
+  Gervais: {}
+  Gillenormand: {}
+  Grantaire: {}
+  Gribier: {}
+  Gueulemer: {}
+  Isabeau: {}
+  Javert: {}
+  Joly: {}
+  Jondrette: {}
+  Judge: {}
+  Labarre: {}
+  Listolier: {}
+  LtGillenormand: {}
+  Mabeuf: {}
+  Magnon: {}
+  Marguerite: {}
+  Marius: {}
+  MlleBaptistine: {}
+  MlleGillenormand: {}
+  MlleVaubois: {}
+  MmeBurgon: {}
+  MmeDeR: {}
+  MmeHucheloup: {}
+  MmeMagloire: {}
+  MmePontmercy: {}
+  MmeThenardier: {}
+  Montparnasse: {}
+  MotherInnocent: {}
+  MotherPlutarch: {}
+  Myriel: {}
+  Napoleon: {}
+  OldMan: {}
+  Perpetue: {}
+  Pontmercy: {}
+  Prouvaire: {}
+  Scaufflaire: {}
+  Simplice: {}
+  Thenardier: {}
+  Tholomyes: {}
+  Toussaint: {}
+  Valjean: {}
+  Woman1: {}
+  Woman2: {}
+  Zephine: {}
+adjlist_inner_dict_factory: &id255 !!python/name:builtins.dict ''
+adjlist_outer_dict_factory: *id255
+edge_attr_dict_factory: *id255
+graph: {}
+node_dict_factory: *id255
+root_graph: *id256
