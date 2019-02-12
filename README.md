@@ -4,4 +4,4 @@
 
 ## Tareas
 
-[Lista de tareas](../blob/master/TAREAS/Tareas.md)
+[Lista de tareas](../master/TAREAS/Tareas.md)
