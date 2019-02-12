@@ -2,3 +2,6 @@
 
 ## Curso Fundamental --- Semestre 2019 - 2 
 
+## Tareas
+
+[Lista de tareas](../TAREAS/Tareas.md)
