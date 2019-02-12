@@ -4,7 +4,7 @@ TAREAS
 Tarea Para la Sesión 04
 -----------------------
 
-1 Utilizar la red maracada para tarea (/TAREAS/sesion03/tcga\_colorectal\_tarea.graphml). Esta red fue construída a partir de la integración de datos multi-ómicos de cáncer colo-rectal utilizando datos de TCGA y la herramienta PARADIGM. Los resultados fueron publicados en <https://www.nature.com/articles/nature11252> (2012).
+1 Utilizar la red marcada para tarea (/TAREAS/sesion03/tcga\_colorectal\_tarea.graphml). Esta red fue construída a partir de la integración de datos multi-ómicos de cáncer colo-rectal utilizando datos de TCGA y la herramienta PARADIGM. Los resultados fueron publicados en <https://www.nature.com/articles/nature11252> (2012).
 
 2 Entregar esta misma red en al menos TRES formatos de los discutidos en la sesión del 12/Febrero/2019, así como DOS visualizaciones distintas.
 
