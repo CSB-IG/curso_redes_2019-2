@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml>
+    <key attr.name="SUID" attr.type="long" for="node" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="node" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="node" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="node" id="selected"/>
+    <key attr.name="SUID" attr.type="long" for="node" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="node" id="shared name"/>
+    <key attr.name="shared interaction" attr.type="string" for="node" id="shared interaction"/>
+    <key attr.name="name" attr.type="string" for="node" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="node" id="selected"/>
+    <key attr.name="interaction" attr.type="string" for="node" id="interaction"/>
+    <key attr.name="SUID" attr.type="long" for="node" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="node" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="node" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="node" id="selected"/>
+    <key attr.name="__Annotations" attr.type="string" for="node" id="__Annotations"/>
+    <graph edgedefault="directed" id="redClase.txt">
+        <node id="330">
+            <data key="SUID">330</data>
+            <data key="shared name">Maria Macias</data>
+            <data key="name">Maria Macias</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="234">
+            <data key="SUID">234</data>
+            <data key="shared name">Antonio Barajas</data>
+            <data key="name">Antonio Barajas</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="173">
+            <data key="SUID">173</data>
+            <data key="shared name">Gabriela Juarez </data>
+            <data key="name">Gabriela Juarez </data>
+            <data key="selected">false</data>
+        </node>
+        <node id="172">
+            <data key="SUID">172</data>
+            <data key="shared name">Mireya Martinez</data>
+            <data key="name">Mireya Martinez</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="171">
+            <data key="SUID">171</data>
+            <data key="shared name">Mireya Gachuz</data>
+            <data key="name">Mireya Gachuz</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="170">
+            <data key="SUID">170</data>
+            <data key="shared name">Mayte Vallejo</data>
+            <data key="name">Mayte Vallejo</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="169">
+            <data key="SUID">169</data>
+            <data key="shared name">Martin Ruhle</data>
+            <data key="name">Martin Ruhle</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="168">
+            <data key="SUID">168</data>
+            <data key="shared name">Kahorik Gonzalez</data>
+            <data key="name">Kahorik Gonzalez</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="167">
+            <data key="SUID">167</data>
+            <data key="shared name">Julieta Dominguez</data>
+            <data key="name">Julieta Dominguez</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="166">
+            <data key="SUID">166</data>
+            <data key="shared name">Israel Muñoz</data>
+            <data key="name">Israel Muñoz</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="165">
+            <data key="SUID">165</data>
+            <data key="shared name">Brenda  Garcia</data>
+            <data key="name">Brenda  Garcia</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="164">
+            <data key="SUID">164</data>
+            <data key="shared name">Erandi Aketzalli Serrano</data>
+            <data key="name">Erandi Aketzalli Serrano</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="163">
+            <data key="SUID">163</data>
+            <data key="shared name">Cristobal Fresno</data>
+            <data key="name">Cristobal Fresno</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="162">
+            <data key="SUID">162</data>
+            <data key="shared name">Maria Elena Soto</data>
+            <data key="name">Maria Elena Soto</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="161">
+            <data key="SUID">161</data>
+            <data key="shared name">Luz Helena Mendez</data>
+            <data key="name">Luz Helena Mendez</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="160">
+            <data key="SUID">160</data>
+            <data key="shared name">David G. Perez</data>
+            <data key="name">David G. Perez</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="159">
+            <data key="SUID">159</data>
+            <data key="shared name">Jose Maria Zamora</data>
+            <data key="name">Jose Maria Zamora</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="158">
+            <data key="SUID">158</data>
+            <data key="shared name">Andy Dorey Ruiz</data>
+            <data key="name">Andy Dorey Ruiz</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="157">
+            <data key="SUID">157</data>
+            <data key="shared name">Victor Adrian Cortes</data>
+            <data key="name">Victor Adrian Cortes</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="156">
+            <data key="SUID">156</data>
+            <data key="shared name">Sergio David Andonegui</data>
+            <data key="name">Sergio David Andonegui</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="155">
+            <data key="SUID">155</data>
+            <data key="shared name">Sergio Alberto Cortes</data>
+            <data key="name">Sergio Alberto Cortes</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="154">
+            <data key="SUID">154</data>
+            <data key="shared name">Karina Lopez</data>
+            <data key="name">Karina Lopez</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="153">
+            <data key="SUID">153</data>
+            <data key="shared name">Antonio daniel Martinez</data>
+            <data key="name">Antonio daniel Martinez</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="152">
+            <data key="SUID">152</data>
+            <data key="shared name">Maria de la Soledad Ochoa</data>
+            <data key="name">Maria de la Soledad Ochoa</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="151">
+            <data key="SUID">151</data>
+            <data key="shared name">Yuriko Yamamoto</data>
+            <data key="name">Yuriko Yamamoto</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="150">
+            <data key="SUID">150</data>
+            <data key="shared name">Niko Alain Cruz</data>
+            <data key="name">Niko Alain Cruz</data>
+            <data key="selected">true</data>
+        </node>
+        <node id="149">
+            <data key="SUID">149</data>
+            <data key="shared name">Luis Contreras</data>
+            <data key="name">Luis Contreras</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="148">
+            <data key="SUID">148</data>
+            <data key="shared name">Ivonne Escalona</data>
+            <data key="name">Ivonne Escalona</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="147">
+            <data key="SUID">147</data>
+            <data key="shared name">Ricardo jesus Martinez</data>
+            <data key="name">Ricardo jesus Martinez</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="146">
+            <data key="SUID">146</data>
+            <data key="shared name">Maria Fernanda Cortez </data>
+            <data key="name">Maria Fernanda Cortez </data>
+            <data key="selected">false</data>
+        </node>
+        <node id="145">
+            <data key="SUID">145</data>
+            <data key="shared name">Ana Maria Pantaleon</data>
+            <data key="name">Ana Maria Pantaleon</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="144">
+            <data key="SUID">144</data>
+            <data key="shared name">Alfredo Cardenas</data>
+            <data key="name">Alfredo Cardenas</data>
+            <data key="selected">false</data>
+        </node>
+        <edge source="173" target="234">
+            <data key="SUID">238</data>
+            <data key="shared name">Gabriela Juarez  (interacts with) Antonio Barajas</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Gabriela Juarez  (interacts with) Antonio Barajas</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="172" target="234">
+            <data key="SUID">236</data>
+            <data key="shared name">Mireya Martinez (interacts with) Antonio Barajas</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Mireya Martinez (interacts with) Antonio Barajas</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="170" target="173">
+            <data key="SUID">346</data>
+            <data key="shared name">Mayte Vallejo (interacts with) Gabriela Juarez </data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Mayte Vallejo (interacts with) Gabriela Juarez </data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="167" target="170">
+            <data key="SUID">368</data>
+            <data key="shared name">Julieta Dominguez (interacts with) Mayte Vallejo</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Julieta Dominguez (interacts with) Mayte Vallejo</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="166" target="173">
+            <data key="SUID">350</data>
+            <data key="shared name">Israel Muñoz (interacts with) Gabriela Juarez </data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Israel Muñoz (interacts with) Gabriela Juarez </data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="165" target="168">
+            <data key="SUID">354</data>
+            <data key="shared name">Brenda  Garcia (interacts with) Kahorik Gonzalez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Brenda  Garcia (interacts with) Kahorik Gonzalez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="164" target="172">
+            <data key="SUID">342</data>
+            <data key="shared name">Erandi Aketzalli Serrano (interacts with) Mireya Martinez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Erandi Aketzalli Serrano (interacts with) Mireya Martinez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="164" target="330">
+            <data key="SUID">334</data>
+            <data key="shared name">Erandi Aketzalli Serrano (interacts with) Maria Macias</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Erandi Aketzalli Serrano (interacts with) Maria Macias</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="163" target="167">
+            <data key="SUID">364</data>
+            <data key="shared name">Cristobal Fresno (interacts with) Julieta Dominguez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Cristobal Fresno (interacts with) Julieta Dominguez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="163" target="172">
+            <data key="SUID">358</data>
+            <data key="shared name">Cristobal Fresno (interacts with) Mireya Martinez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Cristobal Fresno (interacts with) Mireya Martinez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="163" target="169">
+            <data key="SUID">356</data>
+            <data key="shared name">Cristobal Fresno (interacts with) Martin Ruhle</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Cristobal Fresno (interacts with) Martin Ruhle</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="161" target="169">
+            <data key="SUID">340</data>
+            <data key="shared name">Luz Helena Mendez (interacts with) Martin Ruhle</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Luz Helena Mendez (interacts with) Martin Ruhle</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="161" target="168">
+            <data key="SUID">336</data>
+            <data key="shared name">Luz Helena Mendez (interacts with) Kahorik Gonzalez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Luz Helena Mendez (interacts with) Kahorik Gonzalez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="161" target="162">
+            <data key="SUID">326</data>
+            <data key="shared name">Luz Helena Mendez (interacts with) Maria Elena Soto</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Luz Helena Mendez (interacts with) Maria Elena Soto</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="161" target="170">
+            <data key="SUID">322</data>
+            <data key="shared name">Luz Helena Mendez (interacts with) Mayte Vallejo</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Luz Helena Mendez (interacts with) Mayte Vallejo</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="160" target="330">
+            <data key="SUID">332</data>
+            <data key="shared name">David G. Perez (interacts with) Maria Macias</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">David G. Perez (interacts with) Maria Macias</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="160" target="161">
+            <data key="SUID">280</data>
+            <data key="shared name">David G. Perez (interacts with) Luz Helena Mendez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">David G. Perez (interacts with) Luz Helena Mendez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="160" target="166">
+            <data key="SUID">278</data>
+            <data key="shared name">David G. Perez (interacts with) Israel Muñoz</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">David G. Perez (interacts with) Israel Muñoz</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="159" target="162">
+            <data key="SUID">328</data>
+            <data key="shared name">Jose Maria Zamora (interacts with) Maria Elena Soto</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Jose Maria Zamora (interacts with) Maria Elena Soto</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="159" target="234">
+            <data key="SUID">242</data>
+            <data key="shared name">Jose Maria Zamora (interacts with) Antonio Barajas</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Jose Maria Zamora (interacts with) Antonio Barajas</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="158" target="170">
+            <data key="SUID">348</data>
+            <data key="shared name">Andy Dorey Ruiz (interacts with) Mayte Vallejo</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Andy Dorey Ruiz (interacts with) Mayte Vallejo</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="158" target="161">
+            <data key="SUID">320</data>
+            <data key="shared name">Andy Dorey Ruiz (interacts with) Luz Helena Mendez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Andy Dorey Ruiz (interacts with) Luz Helena Mendez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="158" target="234">
+            <data key="SUID">240</data>
+            <data key="shared name">Andy Dorey Ruiz (interacts with) Antonio Barajas</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Andy Dorey Ruiz (interacts with) Antonio Barajas</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="157" target="158">
+            <data key="SUID">314</data>
+            <data key="shared name">Victor Adrian Cortes (interacts with) Andy Dorey Ruiz</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Victor Adrian Cortes (interacts with) Andy Dorey Ruiz</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="156" target="168">
+            <data key="SUID">282</data>
+            <data key="shared name">Sergio David Andonegui (interacts with) Kahorik Gonzalez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Sergio David Andonegui (interacts with) Kahorik Gonzalez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="156" target="160">
+            <data key="SUID">276</data>
+            <data key="shared name">Sergio David Andonegui (interacts with) David G. Perez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Sergio David Andonegui (interacts with) David G. Perez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="155" target="165">
+            <data key="SUID">352</data>
+            <data key="shared name">Sergio Alberto Cortes (interacts with) Brenda  Garcia</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Sergio Alberto Cortes (interacts with) Brenda  Garcia</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="155" target="157">
+            <data key="SUID">310</data>
+            <data key="shared name">Sergio Alberto Cortes (interacts with) Victor Adrian Cortes</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Sergio Alberto Cortes (interacts with) Victor Adrian Cortes</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="154" target="172">
+            <data key="SUID">298</data>
+            <data key="shared name">Karina Lopez (interacts with) Mireya Martinez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Karina Lopez (interacts with) Mireya Martinez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="154" target="157">
+            <data key="SUID">294</data>
+            <data key="shared name">Karina Lopez (interacts with) Victor Adrian Cortes</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Karina Lopez (interacts with) Victor Adrian Cortes</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="154" target="166">
+            <data key="SUID">292</data>
+            <data key="shared name">Karina Lopez (interacts with) Israel Muñoz</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Karina Lopez (interacts with) Israel Muñoz</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="154" target="162">
+            <data key="SUID">288</data>
+            <data key="shared name">Karina Lopez (interacts with) Maria Elena Soto</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Karina Lopez (interacts with) Maria Elena Soto</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="153" target="158">
+            <data key="SUID">316</data>
+            <data key="shared name">Antonio daniel Martinez (interacts with) Andy Dorey Ruiz</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Antonio daniel Martinez (interacts with) Andy Dorey Ruiz</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="153" target="162">
+            <data key="SUID">308</data>
+            <data key="shared name">Antonio daniel Martinez (interacts with) Maria Elena Soto</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Antonio daniel Martinez (interacts with) Maria Elena Soto</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="153" target="166">
+            <data key="SUID">302</data>
+            <data key="shared name">Antonio daniel Martinez (interacts with) Israel Muñoz</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Antonio daniel Martinez (interacts with) Israel Muñoz</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="153" target="160">
+            <data key="SUID">274</data>
+            <data key="shared name">Antonio daniel Martinez (interacts with) David G. Perez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Antonio daniel Martinez (interacts with) David G. Perez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="152" target="172">
+            <data key="SUID">344</data>
+            <data key="shared name">Maria de la Soledad Ochoa (interacts with) Mireya Martinez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Maria de la Soledad Ochoa (interacts with) Mireya Martinez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="152" target="161">
+            <data key="SUID">324</data>
+            <data key="shared name">Maria de la Soledad Ochoa (interacts with) Luz Helena Mendez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Maria de la Soledad Ochoa (interacts with) Luz Helena Mendez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="152" target="155">
+            <data key="SUID">312</data>
+            <data key="shared name">Maria de la Soledad Ochoa (interacts with) Sergio Alberto Cortes</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Maria de la Soledad Ochoa (interacts with) Sergio Alberto Cortes</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="152" target="154">
+            <data key="SUID">286</data>
+            <data key="shared name">Maria de la Soledad Ochoa (interacts with) Karina Lopez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Maria de la Soledad Ochoa (interacts with) Karina Lopez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="152" target="164">
+            <data key="SUID">252</data>
+            <data key="shared name">Maria de la Soledad Ochoa (interacts with) Erandi Aketzalli Serrano</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Maria de la Soledad Ochoa (interacts with) Erandi Aketzalli Serrano</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="152" target="173">
+            <data key="SUID">250</data>
+            <data key="shared name">Maria de la Soledad Ochoa (interacts with) Gabriela Juarez </data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Maria de la Soledad Ochoa (interacts with) Gabriela Juarez </data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="152" target="160">
+            <data key="SUID">244</data>
+            <data key="shared name">Maria de la Soledad Ochoa (interacts with) David G. Perez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Maria de la Soledad Ochoa (interacts with) David G. Perez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="151" target="153">
+            <data key="SUID">300</data>
+            <data key="shared name">Yuriko Yamamoto (interacts with) Antonio daniel Martinez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Yuriko Yamamoto (interacts with) Antonio daniel Martinez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="151" target="160">
+            <data key="SUID">272</data>
+            <data key="shared name">Yuriko Yamamoto (interacts with) David G. Perez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Yuriko Yamamoto (interacts with) David G. Perez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="151" target="157">
+            <data key="SUID">266</data>
+            <data key="shared name">Yuriko Yamamoto (interacts with) Victor Adrian Cortes</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Yuriko Yamamoto (interacts with) Victor Adrian Cortes</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="151" target="163">
+            <data key="SUID">264</data>
+            <data key="shared name">Yuriko Yamamoto (interacts with) Cristobal Fresno</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Yuriko Yamamoto (interacts with) Cristobal Fresno</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="151" target="154">
+            <data key="SUID">262</data>
+            <data key="shared name">Yuriko Yamamoto (interacts with) Karina Lopez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Yuriko Yamamoto (interacts with) Karina Lopez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="151" target="166">
+            <data key="SUID">260</data>
+            <data key="shared name">Yuriko Yamamoto (interacts with) Israel Muñoz</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Yuriko Yamamoto (interacts with) Israel Muñoz</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="151" target="152">
+            <data key="SUID">248</data>
+            <data key="shared name">Yuriko Yamamoto (interacts with) Maria de la Soledad Ochoa</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Yuriko Yamamoto (interacts with) Maria de la Soledad Ochoa</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="149" target="167">
+            <data key="SUID">366</data>
+            <data key="shared name">Luis Contreras (interacts with) Julieta Dominguez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Luis Contreras (interacts with) Julieta Dominguez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="149" target="163">
+            <data key="SUID">362</data>
+            <data key="shared name">Luis Contreras (interacts with) Cristobal Fresno</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Luis Contreras (interacts with) Cristobal Fresno</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="149" target="156">
+            <data key="SUID">284</data>
+            <data key="shared name">Luis Contreras (interacts with) Sergio David Andonegui</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Luis Contreras (interacts with) Sergio David Andonegui</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="149" target="160">
+            <data key="SUID">258</data>
+            <data key="shared name">Luis Contreras (interacts with) David G. Perez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Luis Contreras (interacts with) David G. Perez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="149" target="173">
+            <data key="SUID">256</data>
+            <data key="shared name">Luis Contreras (interacts with) Gabriela Juarez </data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Luis Contreras (interacts with) Gabriela Juarez </data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="149" target="151">
+            <data key="SUID">254</data>
+            <data key="shared name">Luis Contreras (interacts with) Yuriko Yamamoto</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Luis Contreras (interacts with) Yuriko Yamamoto</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="148" target="168">
+            <data key="SUID">338</data>
+            <data key="shared name">Ivonne Escalona (interacts with) Kahorik Gonzalez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Ivonne Escalona (interacts with) Kahorik Gonzalez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="147" target="172">
+            <data key="SUID">232</data>
+            <data key="shared name">Ricardo jesus Martinez (interacts with) Mireya Martinez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Ricardo jesus Martinez (interacts with) Mireya Martinez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="146" target="163">
+            <data key="SUID">360</data>
+            <data key="shared name">Maria Fernanda Cortez  (interacts with) Cristobal Fresno</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Maria Fernanda Cortez  (interacts with) Cristobal Fresno</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="146" target="153">
+            <data key="SUID">304</data>
+            <data key="shared name">Maria Fernanda Cortez  (interacts with) Antonio daniel Martinez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Maria Fernanda Cortez  (interacts with) Antonio daniel Martinez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="146" target="151">
+            <data key="SUID">270</data>
+            <data key="shared name">Maria Fernanda Cortez  (interacts with) Yuriko Yamamoto</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Maria Fernanda Cortez  (interacts with) Yuriko Yamamoto</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="146" target="171">
+            <data key="SUID">214</data>
+            <data key="shared name">Maria Fernanda Cortez  (interacts with) Mireya Gachuz</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Maria Fernanda Cortez  (interacts with) Mireya Gachuz</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="146" target="156">
+            <data key="SUID">212</data>
+            <data key="shared name">Maria Fernanda Cortez  (interacts with) Sergio David Andonegui</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Maria Fernanda Cortez  (interacts with) Sergio David Andonegui</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="146" target="162">
+            <data key="SUID">210</data>
+            <data key="shared name">Maria Fernanda Cortez  (interacts with) Maria Elena Soto</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Maria Fernanda Cortez  (interacts with) Maria Elena Soto</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="146" target="161">
+            <data key="SUID">208</data>
+            <data key="shared name">Maria Fernanda Cortez  (interacts with) Luz Helena Mendez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Maria Fernanda Cortez  (interacts with) Luz Helena Mendez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="146" target="165">
+            <data key="SUID">206</data>
+            <data key="shared name">Maria Fernanda Cortez  (interacts with) Brenda  Garcia</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Maria Fernanda Cortez  (interacts with) Brenda  Garcia</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="145" target="154">
+            <data key="SUID">290</data>
+            <data key="shared name">Ana Maria Pantaleon (interacts with) Karina Lopez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Ana Maria Pantaleon (interacts with) Karina Lopez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="145" target="151">
+            <data key="SUID">268</data>
+            <data key="shared name">Ana Maria Pantaleon (interacts with) Yuriko Yamamoto</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Ana Maria Pantaleon (interacts with) Yuriko Yamamoto</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="145" target="160">
+            <data key="SUID">230</data>
+            <data key="shared name">Ana Maria Pantaleon (interacts with) David G. Perez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Ana Maria Pantaleon (interacts with) David G. Perez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="145" target="148">
+            <data key="SUID">228</data>
+            <data key="shared name">Ana Maria Pantaleon (interacts with) Ivonne Escalona</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Ana Maria Pantaleon (interacts with) Ivonne Escalona</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="145" target="173">
+            <data key="SUID">226</data>
+            <data key="shared name">Ana Maria Pantaleon (interacts with) Gabriela Juarez </data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Ana Maria Pantaleon (interacts with) Gabriela Juarez </data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="145" target="172">
+            <data key="SUID">224</data>
+            <data key="shared name">Ana Maria Pantaleon (interacts with) Mireya Martinez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Ana Maria Pantaleon (interacts with) Mireya Martinez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="145" target="153">
+            <data key="SUID">222</data>
+            <data key="shared name">Ana Maria Pantaleon (interacts with) Antonio daniel Martinez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Ana Maria Pantaleon (interacts with) Antonio daniel Martinez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="145" target="158">
+            <data key="SUID">220</data>
+            <data key="shared name">Ana Maria Pantaleon (interacts with) Andy Dorey Ruiz</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Ana Maria Pantaleon (interacts with) Andy Dorey Ruiz</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="144" target="158">
+            <data key="SUID">318</data>
+            <data key="shared name">Alfredo Cardenas (interacts with) Andy Dorey Ruiz</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Alfredo Cardenas (interacts with) Andy Dorey Ruiz</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="144" target="153">
+            <data key="SUID">306</data>
+            <data key="shared name">Alfredo Cardenas (interacts with) Antonio daniel Martinez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Alfredo Cardenas (interacts with) Antonio daniel Martinez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="144" target="154">
+            <data key="SUID">296</data>
+            <data key="shared name">Alfredo Cardenas (interacts with) Karina Lopez</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Alfredo Cardenas (interacts with) Karina Lopez</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="144" target="152">
+            <data key="SUID">246</data>
+            <data key="shared name">Alfredo Cardenas (interacts with) Maria de la Soledad Ochoa</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Alfredo Cardenas (interacts with) Maria de la Soledad Ochoa</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="144" target="159">
+            <data key="SUID">218</data>
+            <data key="shared name">Alfredo Cardenas (interacts with) Jose Maria Zamora</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Alfredo Cardenas (interacts with) Jose Maria Zamora</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+        <edge source="144" target="165">
+            <data key="SUID">216</data>
+            <data key="shared name">Alfredo Cardenas (interacts with) Brenda  Garcia</data>
+            <data key="shared interaction">interacts with</data>
+            <data key="name">Alfredo Cardenas (interacts with) Brenda  Garcia</data>
+            <data key="selected">false</data>
+            <data key="interaction">interacts with</data>
+        </edge>
+    </graph>
+</graphml>
